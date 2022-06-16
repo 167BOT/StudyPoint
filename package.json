@@ -1,0 +1,29 @@
+{
+  "name": "studypoint",
+  "version": "1.0.0",
+  "description": "A Discord Bot for study and win gifts",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/167BOT/StudyPoint.git"
+  },
+  "keywords": [
+    "study",
+    "learn",
+    "gifts",
+    "school",
+    "work"
+  ],
+  "author": "167_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/167BOT/StudyPoint/issues"
+  },
+  "homepage": "https://github.com/167BOT/StudyPoint#readme"
+}
