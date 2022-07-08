@@ -1,8 +1,9 @@
 class Command {
-  constructor(client, message, prefix) {
+  constructor(client, message, prefix, language) {
     this.client = client;
     this.message = message;
     this.prefix = prefix;
+    this.language = language;
     this.channel = message.channel;
     this.author = message.author;
     this.guild = message.guild;
