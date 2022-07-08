@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/167BOT/StudyPoint/issues"
   },
-  "homepage": "https://github.com/167BOT/StudyPoint#readme"
+  "homepage": "https://github.com/167BOT/StudyPoint#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
