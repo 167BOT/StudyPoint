@@ -10,13 +10,13 @@
 > src
 	- index.js//for backend and more
 	> commands
-		- Study.js//class
-		//...
+		> category
+			- command.js			 
+			//...
 	> events
 		- messageCreate.js//files
 		//...
-		- Runner.js//functions for run all events
-	> functions
-		- Images.js//for images class
+	> handlers
+		- handler.js
 		//...
 ```
